@@ -11,8 +11,7 @@ Overall, this note-taking component offers a seamless and intuitive solution for
 
 ### Images:
 
-#### Note-Taking Interface:
-![Note-Taking Interface](./src/Screenshot 2024-03-31 033738.jpg)
+![Note-Taking Interface](./src/Screenshot%202024-03-31%20033738.jpg)
 
 #### Saved Note Example:
-![Saved Note Example](./src/Screenshot 2024-03-31 033717.jpg)
+![Saved Note Example](./src/Screenshot%202024-03-31%20033717.jpg)
